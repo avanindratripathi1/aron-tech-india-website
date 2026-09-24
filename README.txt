@@ -6,3 +6,4 @@ Plus Jakarta Sans font, How-it-works section, icons on product cards, ghost What
 call button, cleaner footer.
 
 To do before launch: add real photos, add the email once the mailbox is live, verify all claims.
+
